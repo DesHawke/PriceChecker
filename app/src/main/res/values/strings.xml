@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Price Checker</string>
+    <string name="price">Цена</string>
+    <string name="shop">Магазин</string>
+    <string name="imageDescription">Изображение товара</string>
+    <string name="scanBarcode">Сканировать штрихкод</string>
+</resources>
